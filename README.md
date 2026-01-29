@@ -1,70 +1,118 @@
-# Getting Started with Create React App
+# Be-Trendy - E-commerce Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Be-Trendy Logo](./projects/be-trendy.png)
 
-## Available Scripts
+**Live Demo:** [https://rihabcherni.github.io/be-trendy/](https://rihabcherni.github.io/be-trendy/)
 
-In the project directory, you can run:
+Be-Trendy is a modern e-commerce web application built with **React.js** and **Material-UI**. It allows users to browse trendy products, add items to the cart, and complete purchases in a **responsive and interactive interface**.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* Browse trending products with images, prices, and descriptions
+* Add items to cart and manage quantities
+* Responsive design for desktop, tablet, and mobile
+* Interactive UI with carousels and animations
+* SweetAlert notifications for user actions
+* React Router for smooth navigation
+* Styled Components and Material-UI for design consistency
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+* **Frontend:** React 18, Material-UI, Sass, Styled Components
+* **State Management & HTTP:** Axios
+* **Routing:** React Router
+* **UI Enhancements:** React Material-UI Carousel, React Multi-Carousel
+* **Alerts:** SweetAlert
+* **Deployment:** GitHub Pages
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository:
 
-### `npm run eject`
+   ```bash
+   git clone https://github.com/rihabcherni/be-trendy.git
+   cd be-trendy
+````
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. Install dependencies:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   npm install
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. Start the development server:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ```bash
+   npm start
+   ```
 
-## Learn More
+4. Open your browser at [http://localhost:3000](http://localhost:3000)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Deployment
 
-### Code Splitting
+The project is deployed on **GitHub Pages**:
+[https://rihabcherni.github.io/be-trendy/](https://rihabcherni.github.io/be-trendy/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## Screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Newsletter Section
 
-### Making a Progressive Web App
+![Newsletter](./screenshots/newsletter.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Home Pages
 
-### Advanced Configuration
+![Home](./screenshots/home.png)
+![Home 1](./screenshots/home1.png)
+![Home 2](./screenshots/home2.png)
+![Home 3](./screenshots/home3.png)
+![Home 4](./screenshots/home4.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Contact Page
 
-### Deployment
+![Contact](./screenshots/conact.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### FAQ Page
 
-### `npm run build` fails to minify
+![FAQ](./screenshots/faq.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Login Page
+
+![Login](./screenshots/login.png)
+
+---
+
+## Project Structure
+
+```
+be-trendy/
+│
+├─ public/
+├─ src/
+│  ├─ components/
+│  ├─ pages/
+│  ├─ assets/
+│  ├─ App.js
+│  └─ index.js
+├─ package.json
+└─ README.md
+```
+
+---
+
+## Notes
+
+* The app is fully responsive and optimized for mobile and desktop.
+* UI interactions and carousels provide a smooth shopping experience.
+* Can be extended with backend APIs for full e-commerce functionality.
+::contentReference[oaicite:0]{index=0}
+```
