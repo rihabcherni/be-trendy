@@ -1,6 +1,6 @@
 # Be-Trendy - E-commerce Website
 
-![Be-Trendy Logo](logo.png)
+![Be-Trendy Logo](public/logo.png)
 
 **Live Demo:** [https://rihabcherni.github.io/be-trendy/](https://rihabcherni.github.io/be-trendy/)
 
