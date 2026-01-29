@@ -91,24 +91,6 @@ The project is deployed on **GitHub Pages**:
 
 ---
 
-## Project Structure
-
-```
-be-trendy/
-│
-├─ public/
-├─ src/
-│  ├─ components/
-│  ├─ pages/
-│  ├─ assets/
-│  ├─ App.js
-│  └─ index.js
-├─ package.json
-└─ README.md
-```
-
----
-
 ## Notes
 
 * The app is fully responsive and optimized for mobile and desktop.
