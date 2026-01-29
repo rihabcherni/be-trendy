@@ -38,7 +38,7 @@ Be-Trendy is a modern e-commerce web application built with **React.js** and **M
    ```bash
    git clone https://github.com/rihabcherni/be-trendy.git
    cd be-trendy
-````
+   ````
 
 2. Install dependencies:
 
