@@ -67,15 +67,15 @@ The project is deployed on **GitHub Pages**:
 
 ### Newsletter Section
 
-![Newsletter](./screenshots/newsletter.png)
+![Newsletter](./screenshots/newsletter.jpg)
 
 ### Home Pages
 
-![Home](./screenshots/home.png)
-![Home 1](./screenshots/home1.png)
-![Home 2](./screenshots/home2.png)
-![Home 3](./screenshots/home3.png)
-![Home 4](./screenshots/home4.png)
+![Home](./screenshots/home.jpg)
+![Home 1](./screenshots/home1.jpg)
+![Home 2](./screenshots/home2.jpg)
+![Home 3](./screenshots/home3.jpg)
+![Home 4](./screenshots/home4.jpg)
 
 ### Contact Page
 
@@ -83,11 +83,11 @@ The project is deployed on **GitHub Pages**:
 
 ### FAQ Page
 
-![FAQ](./screenshots/faq.png)
+![FAQ](./screenshots/faq.jpg)
 
 ### Login Page
 
-![Login](./screenshots/login.png)
+![Login](./screenshots/login.jpg)
 
 ---
 
