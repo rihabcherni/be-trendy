@@ -96,5 +96,3 @@ The project is deployed on **GitHub Pages**:
 * The app is fully responsive and optimized for mobile and desktop.
 * UI interactions and carousels provide a smooth shopping experience.
 * Can be extended with backend APIs for full e-commerce functionality.
-::contentReference[oaicite:0]{index=0}
-```
